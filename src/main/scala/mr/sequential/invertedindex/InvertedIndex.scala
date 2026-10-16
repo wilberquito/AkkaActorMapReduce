@@ -1,5 +1,5 @@
 package edu.udg.pda
-package mr
+package mr.sequential.invertedindex
 
 import java.io.File
 
