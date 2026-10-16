@@ -1,5 +1,5 @@
 package edu.udg.pda
-package sorting
+package mr
 
 import java.io.File
 
